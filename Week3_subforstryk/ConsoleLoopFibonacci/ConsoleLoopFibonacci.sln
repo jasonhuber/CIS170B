@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLoopFibonacci", "ConsoleLoopFibonacci\ConsoleLoopFibonacci.csproj", "{7DB3DECC-D198-49E0-A692-3687C60DA1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFibonacci", "..\WindowsFormsLoopFibonacci\WindowsFormsFibonacci\WindowsFormsFibonacci.csproj", "{D895A40A-A125-450D-9E99-7969570A9565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFiveInputs", "..\WindowsFormsFiveInputs\WindowsFormsFiveInputs\WindowsFormsFiveInputs.csproj", "{43D40E1E-4014-4B39-971D-392AE0FE9960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB3DECC-D198-49E0-A692-3687C60DA1CD}.Debug|x86.ActiveCfg = Debug|x86
+		{7DB3DECC-D198-49E0-A692-3687C60DA1CD}.Debug|x86.Build.0 = Debug|x86
+		{7DB3DECC-D198-49E0-A692-3687C60DA1CD}.Release|x86.ActiveCfg = Release|x86
+		{7DB3DECC-D198-49E0-A692-3687C60DA1CD}.Release|x86.Build.0 = Release|x86
+		{D895A40A-A125-450D-9E99-7969570A9565}.Debug|x86.ActiveCfg = Debug|x86
+		{D895A40A-A125-450D-9E99-7969570A9565}.Debug|x86.Build.0 = Debug|x86
+		{D895A40A-A125-450D-9E99-7969570A9565}.Release|x86.ActiveCfg = Release|x86
+		{D895A40A-A125-450D-9E99-7969570A9565}.Release|x86.Build.0 = Release|x86
+		{43D40E1E-4014-4B39-971D-392AE0FE9960}.Debug|x86.ActiveCfg = Debug|x86
+		{43D40E1E-4014-4B39-971D-392AE0FE9960}.Debug|x86.Build.0 = Debug|x86
+		{43D40E1E-4014-4B39-971D-392AE0FE9960}.Release|x86.ActiveCfg = Release|x86
+		{43D40E1E-4014-4B39-971D-392AE0FE9960}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

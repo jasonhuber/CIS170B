@@ -1,0 +1,9 @@
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\bin\Debug\WindowsFormsFiveInputs.exe
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\bin\Debug\WindowsFormsFiveInputs.pdb
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\WindowsFormsFiveInputs.Form1.resources
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\WindowsFormsFiveInputs.Properties.Resources.resources
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\WindowsFormsFiveInputs.exe
+E:\DropBox\My Dropbox\Devry\CIS170B\10FAB\Week3_subforstryk\WindowsFormsFiveInputs\WindowsFormsFiveInputs\obj\x86\Debug\WindowsFormsFiveInputs.pdb
